@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gifederspiel
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on facebook
 - 📫 How to reach me gianfederspiel.ch
 
